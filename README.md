@@ -1,4 +1,5 @@
-# React.js Contact From
+This is a Contact form built using React.js and also accepts the front end details on the backend using Firebase Cloud firestore.
 
-Done By [Me](https://github.com/vaibhava17)
-ok
+You could clone and contribute to it.
+
+Please change the credentails of your Firebase project in src/firebase.js
